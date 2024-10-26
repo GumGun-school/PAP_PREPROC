@@ -1,0 +1,721 @@
+directory:
+"/home/gumgun/pap/datasets/gtFineMod/train/ulm"
+directory:
+"/home/gumgun/pap/datasets/gtFineMod/train/stuttgart"
+	imgNo. 121: stuttgart_000012_000019_gtFine_labelIds.png
+SEARCHKEY
+		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000012_000019_gtFine_labelIds.png")
+		old categories: 0
+		nnew categories: 18
+		cluster:cats 18
+		22: 2201
+		7: 731094
+		8: 93630
+		20: 10019
+		25: 30926
+		4: 16110
+		24: 29664
+		17: 34992
+		0: 1
+		1: 81534
+		3: 31634
+		19: 17583
+		33: 71022
+		26: 18483
+		23: 101428
+		18: 1005
+		21: 102530
+		11: 723296
+	imgNo. 122: stuttgart_000123_000019_gtFine_labelIds.png
+SEARCHKEY
+		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000123_000019_gtFine_labelIds.png")
+		old categories: 18
+		nnew categories: 19
+		cluster:cats 19
+		22: 2201
+		7: 1395130
+		8: 93630
+		20: 10019
+		25: 30926
+		4: 16110
+		24: 31143
+		17: 34992
+		0: 1
+		1: 163068
+		3: 63268
+		19: 17583
+		33: 71022
+		26: 481123
+		23: 128639
+		18: 1005
+		21: 102530
+		27: 3660
+		11: 1548254
+	imgNo. 123: stuttgart_000016_000019_gtFine_labelIds.png
+SEARCHKEY
+		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000016_000019_gtFine_labelIds.png")
+		old categories: 19
+		nnew categories: 23
+		cluster:cats 23
+		22: 33309
+		7: 2259356
+		8: 109422
+		20: 15827
+		25: 42587
+		4: 20813
+		6: 76136
+		32: 4716
+		24: 36546
+		12: 4282
+		17: 79072
+		0: 1
+		1: 244602
+		3: 94902
+		19: 38109
+		33: 71022
+		26: 498237
+		23: 326891
+		18: 1005
+		21: 329392
+		27: 6754
+		5: 1103
+		11: 1997372
+	imgNo. 124: stuttgart_000117_000019_gtFine_labelIds.png
+		RRRRR
+		found pixel 29: at 756 271
+		found pixel 29: at 835 346
+		cluster:cats 13
+		21: 673777
+		7: 657494
+		11: 35080
+		1: 81534
+		26: 346645
+		4: 19277
+		29: 8685
+		8: 116565
+		23: 553
+		3: 31634
+		20: 21071
+		17: 9048
+		13: 95789
+SEARCHKEY
+		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000117_000019_gtFine_labelIds.png")
+		old categories: 23
+		nnew categories: 25
+		cluster:cats 25
+		22: 33309
+		7: 2916850
+		29: 8685
+		8: 225987
+		20: 36898
+		25: 42587
+		4: 40090
+		6: 76136
+		32: 4716
+		24: 36546
+		12: 4282
+		17: 88120
+		0: 1
+		1: 326136
+		3: 126536
+		19: 38109
+		33: 71022
+		26: 844882
+		23: 327444
+		18: 1005
+		21: 1003169
+		27: 6754
+		13: 95789
+		5: 1103
+		11: 2032452
+	imgNo. 125: stuttgart_000146_000019_gtFine_labelIds.png
+	imgNo. 126: stuttgart_000051_000019_gtFine_labelIds.png
+SEARCHKEY
+		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000051_000019_gtFine_labelIds.png")
+		old categories: 25
+		nnew categories: 27
+		cluster:cats 27
+		22: 149291
+		7: 4521364
+		29: 8685
+		15: 299472
+		9: 5707
+		8: 358815
+		20: 40480
+		25: 42587
+		4: 60570
+		6: 76136
+		32: 15079
+		24: 37417
+		12: 4282
+		17: 134022
+		0: 1
+		1: 489204
+		3: 189804
+		19: 38109
+		33: 71022
+		26: 1161881
+		23: 623365
+		18: 1005
+		21: 1122300
+		27: 20915
+		13: 102977
+		5: 1103
+		11: 3007319
+	imgNo. 127: stuttgart_000142_000019_gtFine_labelIds.png
+	imgNo. 128: stuttgart_000075_000019_gtFine_labelIds.png
+	imgNo. 129: stuttgart_000083_000019_gtFine_labelIds.png
+	imgNo. 130: stuttgart_000040_000019_gtFine_labelIds.png
+	imgNo. 131: stuttgart_000021_000019_gtFine_labelIds.png
+	imgNo. 132: stuttgart_000003_000019_gtFine_labelIds.png
+	imgNo. 133: stuttgart_000091_000019_gtFine_labelIds.png
+	imgNo. 134: stuttgart_000109_000019_gtFine_labelIds.png
+	imgNo. 135: stuttgart_000172_000019_gtFine_labelIds.png
+	imgNo. 136: stuttgart_000180_000019_gtFine_labelIds.png
+	imgNo. 137: stuttgart_000159_000019_gtFine_labelIds.png
+SEARCHKEY
+		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000159_000019_gtFine_labelIds.png")
+		old categories: 27
+		nnew categories: 28
+		cluster:cats 28
+		22: 396496
+		7: 12220218
+		29: 8685
+		15: 317649
+		9: 27687
+		8: 1548409
+		20: 202296
+		25: 73514
+		4: 400239
+		6: 556026
+		32: 81183
+		24: 639142
+		12: 20760
+		28: 323
+		17: 353792
+		0: 134
+		1: 1386078
+		3: 537778
+		19: 86311
+		33: 92583
+		26: 2701224
+		23: 1377870
+		18: 9694
+		21: 3717456
+		27: 127169
+		13: 182197
+		5: 168076
+		11: 8418595
+	imgNo. 138: stuttgart_000122_000019_gtFine_labelIds.png
+	imgNo. 139: stuttgart_000065_000019_gtFine_labelIds.png
+	imgNo. 140: stuttgart_000189_000019_gtFine_labelIds.png
+	imgNo. 141: stuttgart_000178_000019_gtFine_labelIds.png
+	imgNo. 142: stuttgart_000014_000019_gtFine_labelIds.png
+	imgNo. 143: stuttgart_000045_000019_gtFine_labelIds.png
+SEARCHKEY
+		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000045_000019_gtFine_labelIds.png")
+		old categories: 28
+		nnew categories: 29
+		cluster:cats 29
+		22: 514863
+		15: 317649
+		28: 323
+		20: 293310
+		25: 74052
+		4: 708945
+		24: 740028
+		12: 103564
+		17: 519988
+		3: 727582
+		19: 104712
+		33: 150185
+		27: 243506
+		13: 205420
+		11: 10789571
+		7: 16391188
+		29: 8685
+		9: 27687
+		8: 1723320
+		6: 1035943
+		32: 151746
+		0: 250
+		1: 1875282
+		23: 1814564
+		26: 3945546
+		18: 24441
+		16: 801314
+		21: 4736663
+		5: 204169
+	imgNo. 144: stuttgart_000006_000019_gtFine_labelIds.png
+	imgNo. 145: stuttgart_000054_000019_gtFine_labelIds.png
+	imgNo. 146: stuttgart_000037_000019_gtFine_labelIds.png
+	imgNo. 147: stuttgart_000179_000019_gtFine_labelIds.png
+	imgNo. 148: stuttgart_000092_000019_gtFine_labelIds.png
+	imgNo. 149: stuttgart_000184_000019_gtFine_labelIds.png
+	imgNo. 150: stuttgart_000173_000019_gtFine_labelIds.png
+	imgNo. 151: stuttgart_000101_000019_gtFine_labelIds.png
+	imgNo. 152: stuttgart_000129_000019_gtFine_labelIds.png
+	imgNo. 153: stuttgart_000128_000019_gtFine_labelIds.png
+	imgNo. 154: stuttgart_000190_000019_gtFine_labelIds.png
+	imgNo. 155: stuttgart_000028_000019_gtFine_labelIds.png
+	imgNo. 156: stuttgart_000030_000019_gtFine_labelIds.png
+	imgNo. 157: stuttgart_000005_000019_gtFine_labelIds.png
+	imgNo. 158: stuttgart_000097_000019_gtFine_labelIds.png
+	imgNo. 159: stuttgart_000133_000019_gtFine_labelIds.png
+	imgNo. 160: stuttgart_000090_000019_gtFine_labelIds.png
+	imgNo. 161: stuttgart_000066_000019_gtFine_labelIds.png
+	imgNo. 162: stuttgart_000156_000019_gtFine_labelIds.png
+	imgNo. 163: stuttgart_000121_000019_gtFine_labelIds.png
+	imgNo. 164: stuttgart_000150_000019_gtFine_labelIds.png
+	imgNo. 165: stuttgart_000055_000019_gtFine_labelIds.png
+SEARCHKEY
+		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000055_000019_gtFine_labelIds.png")
+		old categories: 29
+		nnew categories: 30
+		cluster:cats 30
+		22: 951602
+		15: 453112
+		28: 10278
+		20: 487429
+		25: 161328
+		4: 1359590
+		24: 2002709
+		12: 479861
+		17: 983503
+		3: 1423530
+		19: 270373
+		33: 277074
+		27: 388841
+		13: 341839
+		11: 21445056
+		7: 32063429
+		29: 8685
+		9: 27687
+		8: 3346699
+		31: 70131
+		6: 1435255
+		32: 187266
+		0: 793
+		1: 3669030
+		23: 3374906
+		26: 7768259
+		18: 35430
+		16: 801314
+		21: 10231167
+		5: 315664
+	imgNo. 166: stuttgart_000106_000019_gtFine_labelIds.png
+	imgNo. 167: stuttgart_000099_000019_gtFine_labelIds.png
+	imgNo. 168: stuttgart_000053_000019_gtFine_labelIds.png
+	imgNo. 169: stuttgart_000070_000019_gtFine_labelIds.png
+	imgNo. 170: stuttgart_000136_000019_gtFine_labelIds.png
+	imgNo. 171: stuttgart_000063_000019_gtFine_labelIds.png
+	imgNo. 172: stuttgart_000105_000019_gtFine_labelIds.png
+	imgNo. 173: stuttgart_000084_000019_gtFine_labelIds.png
+	imgNo. 174: stuttgart_000042_000019_gtFine_labelIds.png
+	imgNo. 175: stuttgart_000192_000019_gtFine_labelIds.png
+	imgNo. 176: stuttgart_000001_000019_gtFine_labelIds.png
+	imgNo. 177: stuttgart_000020_000019_gtFine_labelIds.png
+	imgNo. 178: stuttgart_000032_000019_gtFine_labelIds.png
+	imgNo. 179: stuttgart_000124_000019_gtFine_labelIds.png
+	imgNo. 180: stuttgart_000031_000019_gtFine_labelIds.png
+	imgNo. 181: stuttgart_000175_000019_gtFine_labelIds.png
+	imgNo. 182: stuttgart_000017_000019_gtFine_labelIds.png
+	imgNo. 183: stuttgart_000177_000019_gtFine_labelIds.png
+	imgNo. 184: stuttgart_000074_000019_gtFine_labelIds.png
+	imgNo. 185: stuttgart_000194_000019_gtFine_labelIds.png
+	imgNo. 186: stuttgart_000132_000019_gtFine_labelIds.png
+	imgNo. 187: stuttgart_000170_000019_gtFine_labelIds.png
+	imgNo. 188: stuttgart_000057_000019_gtFine_labelIds.png
+	imgNo. 189: stuttgart_000134_000019_gtFine_labelIds.png
+	imgNo. 190: stuttgart_000015_000019_gtFine_labelIds.png
+	imgNo. 191: stuttgart_000103_000019_gtFine_labelIds.png
+	imgNo. 192: stuttgart_000195_000019_gtFine_labelIds.png
+SEARCHKEY
+		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000195_000019_gtFine_labelIds.png")
+		old categories: 30
+		nnew categories: 31
+		cluster:cats 31
+		22: 1698040
+		15: 517708
+		28: 175899
+		20: 985013
+		25: 208179
+		4: 2180525
+		24: 2977290
+		12: 968255
+		17: 1469124
+		3: 2277648
+		19: 349393
+		33: 354551
+		27: 1123435
+		13: 728322
+		14: 140115
+		11: 33022921
+		7: 51294145
+		29: 8685
+		9: 55378
+		8: 5355664
+		31: 532821
+		6: 2023700
+		32: 227984
+		0: 2631
+		1: 5870448
+		23: 6200083
+		26: 12043986
+		18: 57818
+		16: 1335390
+		21: 16178207
+		5: 631586
+	imgNo. 193: stuttgart_000039_000019_gtFine_labelIds.png
+	imgNo. 194: stuttgart_000095_000019_gtFine_labelIds.png
+	imgNo. 195: stuttgart_000165_000019_gtFine_labelIds.png
+	imgNo. 196: stuttgart_000181_000019_gtFine_labelIds.png
+	imgNo. 197: stuttgart_000157_000019_gtFine_labelIds.png
+	imgNo. 198: stuttgart_000049_000019_gtFine_labelIds.png
+	imgNo. 199: stuttgart_000161_000019_gtFine_labelIds.png
+	imgNo. 200: stuttgart_000116_000019_gtFine_labelIds.png
+	imgNo. 201: stuttgart_000191_000019_gtFine_labelIds.png
+	imgNo. 202: stuttgart_000154_000019_gtFine_labelIds.png
+	imgNo. 203: stuttgart_000033_000019_gtFine_labelIds.png
+	imgNo. 204: stuttgart_000111_000019_gtFine_labelIds.png
+	imgNo. 205: stuttgart_000185_000019_gtFine_labelIds.png
+	imgNo. 206: stuttgart_000143_000019_gtFine_labelIds.png
+	imgNo. 207: stuttgart_000158_000019_gtFine_labelIds.png
+	imgNo. 208: stuttgart_000096_000019_gtFine_labelIds.png
+	imgNo. 209: stuttgart_000068_000019_gtFine_labelIds.png
+	imgNo. 210: stuttgart_000013_000019_gtFine_labelIds.png
+	imgNo. 211: stuttgart_000009_000019_gtFine_labelIds.png
+SEARCHKEY
+		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000009_000019_gtFine_labelIds.png")
+		old categories: 31
+		nnew categories: 32
+		cluster:cats 32
+		22: 2017597
+		15: 550082
+		28: 258055
+		20: 1128924
+		25: 211839
+		4: 2846783
+		24: 3611208
+		12: 1249395
+		17: 1730962
+		3: 2878694
+		19: 391123
+		33: 368759
+		27: 1536796
+		13: 871699
+		14: 140115
+		11: 42335856
+		7: 64763171
+		29: 8685
+		9: 62664
+		8: 6831595
+		31: 532821
+		6: 2297634
+		32: 240985
+		0: 71544
+		1: 7419594
+		23: 7318659
+		26: 16497506
+		18: 61510
+		16: 1335390
+		21: 20552769
+		30: 46298
+		5: 672120
+	imgNo. 212: stuttgart_000107_000019_gtFine_labelIds.png
+	imgNo. 213: stuttgart_000082_000019_gtFine_labelIds.png
+	imgNo. 214: stuttgart_000008_000019_gtFine_labelIds.png
+	imgNo. 215: stuttgart_000141_000019_gtFine_labelIds.png
+	imgNo. 216: stuttgart_000183_000019_gtFine_labelIds.png
+	imgNo. 217: stuttgart_000087_000019_gtFine_labelIds.png
+	imgNo. 218: stuttgart_000061_000019_gtFine_labelIds.png
+	imgNo. 219: stuttgart_000112_000019_gtFine_labelIds.png
+	imgNo. 220: stuttgart_000060_000019_gtFine_labelIds.png
+	imgNo. 221: stuttgart_000010_000019_gtFine_labelIds.png
+	imgNo. 222: stuttgart_000007_000019_gtFine_labelIds.png
+	imgNo. 223: stuttgart_000071_000019_gtFine_labelIds.png
+	imgNo. 224: stuttgart_000152_000019_gtFine_labelIds.png
+	imgNo. 225: stuttgart_000027_000019_gtFine_labelIds.png
+	imgNo. 226: stuttgart_000080_000019_gtFine_labelIds.png
+	imgNo. 227: stuttgart_000115_000019_gtFine_labelIds.png
+	imgNo. 228: stuttgart_000004_000019_gtFine_labelIds.png
+	imgNo. 229: stuttgart_000025_000019_gtFine_labelIds.png
+	imgNo. 230: stuttgart_000149_000019_gtFine_labelIds.png
+	imgNo. 231: stuttgart_000052_000019_gtFine_labelIds.png
+	imgNo. 232: stuttgart_000056_000019_gtFine_labelIds.png
+	imgNo. 233: stuttgart_000144_000019_gtFine_labelIds.png
+	imgNo. 234: stuttgart_000182_000019_gtFine_labelIds.png
+	imgNo. 235: stuttgart_000046_000019_gtFine_labelIds.png
+	imgNo. 236: stuttgart_000081_000019_gtFine_labelIds.png
+	imgNo. 237: stuttgart_000119_000019_gtFine_labelIds.png
+	imgNo. 238: stuttgart_000125_000019_gtFine_labelIds.png
+	imgNo. 239: stuttgart_000153_000019_gtFine_labelIds.png
+	imgNo. 240: stuttgart_000186_000019_gtFine_labelIds.png
+	imgNo. 241: stuttgart_000104_000019_gtFine_labelIds.png
+	imgNo. 242: stuttgart_000164_000019_gtFine_labelIds.png
+	imgNo. 243: stuttgart_000160_000019_gtFine_labelIds.png
+	imgNo. 244: stuttgart_000002_000019_gtFine_labelIds.png
+	imgNo. 245: stuttgart_000022_000019_gtFine_labelIds.png
+	imgNo. 246: stuttgart_000038_000019_gtFine_labelIds.png
+	imgNo. 247: stuttgart_000114_000019_gtFine_labelIds.png
+	imgNo. 248: stuttgart_000168_000019_gtFine_labelIds.png
+	imgNo. 249: stuttgart_000166_000019_gtFine_labelIds.png
+	imgNo. 250: stuttgart_000187_000019_gtFine_labelIds.png
+	imgNo. 251: stuttgart_000023_000019_gtFine_labelIds.png
+	imgNo. 252: stuttgart_000073_000019_gtFine_labelIds.png
+	imgNo. 253: stuttgart_000098_000019_gtFine_labelIds.png
+	imgNo. 254: stuttgart_000151_000019_gtFine_labelIds.png
+	imgNo. 255: stuttgart_000086_000019_gtFine_labelIds.png
+	imgNo. 256: stuttgart_000127_000019_gtFine_labelIds.png
+	imgNo. 257: stuttgart_000000_000019_gtFine_labelIds.png
+	imgNo. 258: stuttgart_000162_000019_gtFine_labelIds.png
+	imgNo. 259: stuttgart_000148_000019_gtFine_labelIds.png
+	imgNo. 260: stuttgart_000147_000019_gtFine_labelIds.png
+	imgNo. 261: stuttgart_000035_000019_gtFine_labelIds.png
+	imgNo. 262: stuttgart_000167_000019_gtFine_labelIds.png
+	imgNo. 263: stuttgart_000048_000019_gtFine_labelIds.png
+	imgNo. 264: stuttgart_000102_000019_gtFine_labelIds.png
+	imgNo. 265: stuttgart_000050_000019_gtFine_labelIds.png
+	imgNo. 266: stuttgart_000072_000019_gtFine_labelIds.png
+	imgNo. 267: stuttgart_000176_000019_gtFine_labelIds.png
+	imgNo. 268: stuttgart_000067_000019_gtFine_labelIds.png
+	imgNo. 269: stuttgart_000108_000019_gtFine_labelIds.png
+	imgNo. 270: stuttgart_000078_000019_gtFine_labelIds.png
+	imgNo. 271: stuttgart_000100_000019_gtFine_labelIds.png
+	imgNo. 272: stuttgart_000193_000019_gtFine_labelIds.png
+	imgNo. 273: stuttgart_000019_000019_gtFine_labelIds.png
+	imgNo. 274: stuttgart_000139_000019_gtFine_labelIds.png
+	imgNo. 275: stuttgart_000171_000019_gtFine_labelIds.png
+	imgNo. 276: stuttgart_000011_000019_gtFine_labelIds.png
+	imgNo. 277: stuttgart_000145_000019_gtFine_labelIds.png
+	imgNo. 278: stuttgart_000137_000019_gtFine_labelIds.png
+	imgNo. 279: stuttgart_000058_000019_gtFine_labelIds.png
+	imgNo. 280: stuttgart_000113_000019_gtFine_labelIds.png
+	imgNo. 281: stuttgart_000047_000019_gtFine_labelIds.png
+	imgNo. 282: stuttgart_000188_000019_gtFine_labelIds.png
+	imgNo. 283: stuttgart_000163_000019_gtFine_labelIds.png
+	imgNo. 284: stuttgart_000076_000019_gtFine_labelIds.png
+	imgNo. 285: stuttgart_000064_000019_gtFine_labelIds.png
+	imgNo. 286: stuttgart_000026_000019_gtFine_labelIds.png
+	imgNo. 287: stuttgart_000138_000019_gtFine_labelIds.png
+	imgNo. 288: stuttgart_000126_000019_gtFine_labelIds.png
+	imgNo. 289: stuttgart_000085_000019_gtFine_labelIds.png
+	imgNo. 290: stuttgart_000131_000019_gtFine_labelIds.png
+	imgNo. 291: stuttgart_000094_000019_gtFine_labelIds.png
+directory:
+"/home/gumgun/pap/datasets/gtFineMod/train/aachen"
+	imgNo. 292: aachen_000029_000019_gtFine_labelIds.png
+	imgNo. 293: aachen_000167_000019_gtFine_labelIds.png
+	imgNo. 294: aachen_000138_000019_gtFine_labelIds.png
+	imgNo. 295: aachen_000170_000019_gtFine_labelIds.png
+	imgNo. 296: aachen_000047_000019_gtFine_labelIds.png
+	imgNo. 297: aachen_000012_000019_gtFine_labelIds.png
+	imgNo. 298: aachen_000084_000019_gtFine_labelIds.png
+	imgNo. 299: aachen_000009_000019_gtFine_labelIds.png
+	imgNo. 300: aachen_000141_000019_gtFine_labelIds.png
+	imgNo. 301: aachen_000119_000019_gtFine_labelIds.png
+	imgNo. 302: aachen_000155_000019_gtFine_labelIds.png
+	imgNo. 303: aachen_000137_000019_gtFine_labelIds.png
+	imgNo. 304: aachen_000063_000019_gtFine_labelIds.png
+	imgNo. 305: aachen_000099_000019_gtFine_labelIds.png
+	imgNo. 306: aachen_000164_000019_gtFine_labelIds.png
+	imgNo. 307: aachen_000096_000019_gtFine_labelIds.png
+	imgNo. 308: aachen_000108_000019_gtFine_labelIds.png
+	imgNo. 309: aachen_000169_000019_gtFine_labelIds.png
+	imgNo. 310: aachen_000051_000019_gtFine_labelIds.png
+	imgNo. 311: aachen_000064_000019_gtFine_labelIds.png
+	imgNo. 312: aachen_000112_000019_gtFine_labelIds.png
+	imgNo. 313: aachen_000147_000019_gtFine_labelIds.png
+	imgNo. 314: aachen_000034_000019_gtFine_labelIds.png
+	imgNo. 315: aachen_000001_000019_gtFine_labelIds.png
+	imgNo. 316: aachen_000127_000019_gtFine_labelIds.png
+	imgNo. 317: aachen_000117_000019_gtFine_labelIds.png
+	imgNo. 318: aachen_000153_000019_gtFine_labelIds.png
+	imgNo. 319: aachen_000055_000019_gtFine_labelIds.png
+	imgNo. 320: aachen_000168_000019_gtFine_labelIds.png
+	imgNo. 321: aachen_000059_000019_gtFine_labelIds.png
+	imgNo. 322: aachen_000005_000019_gtFine_labelIds.png
+	imgNo. 323: aachen_000166_000019_gtFine_labelIds.png
+	imgNo. 324: aachen_000145_000019_gtFine_labelIds.png
+	imgNo. 325: aachen_000149_000019_gtFine_labelIds.png
+	imgNo. 326: aachen_000092_000019_gtFine_labelIds.png
+	imgNo. 327: aachen_000078_000019_gtFine_labelIds.png
+	imgNo. 328: aachen_000136_000019_gtFine_labelIds.png
+	imgNo. 329: aachen_000083_000019_gtFine_labelIds.png
+	imgNo. 330: aachen_000097_000019_gtFine_labelIds.png
+	imgNo. 331: aachen_000134_000019_gtFine_labelIds.png
+	imgNo. 332: aachen_000126_000019_gtFine_labelIds.png
+	imgNo. 333: aachen_000171_000019_gtFine_labelIds.png
+	imgNo. 334: aachen_000173_000019_gtFine_labelIds.png
+	imgNo. 335: aachen_000160_000019_gtFine_labelIds.png
+	imgNo. 336: aachen_000094_000019_gtFine_labelIds.png
+	imgNo. 337: aachen_000129_000019_gtFine_labelIds.png
+	imgNo. 338: aachen_000074_000019_gtFine_labelIds.png
+	imgNo. 339: aachen_000037_000019_gtFine_labelIds.png
+	imgNo. 340: aachen_000100_000019_gtFine_labelIds.png
+	imgNo. 341: aachen_000102_000019_gtFine_labelIds.png
+	imgNo. 342: aachen_000085_000019_gtFine_labelIds.png
+	imgNo. 343: aachen_000077_000019_gtFine_labelIds.png
+	imgNo. 344: aachen_000041_000019_gtFine_labelIds.png
+	imgNo. 345: aachen_000023_000019_gtFine_labelIds.png
+	imgNo. 346: aachen_000049_000019_gtFine_labelIds.png
+	imgNo. 347: aachen_000107_000019_gtFine_labelIds.png
+	imgNo. 348: aachen_000089_000019_gtFine_labelIds.png
+	imgNo. 349: aachen_000152_000019_gtFine_labelIds.png
+	imgNo. 350: aachen_000065_000019_gtFine_labelIds.png
+	imgNo. 351: aachen_000120_000019_gtFine_labelIds.png
+	imgNo. 352: aachen_000071_000019_gtFine_labelIds.png
+	imgNo. 353: aachen_000016_000019_gtFine_labelIds.png
+	imgNo. 354: aachen_000011_000019_gtFine_labelIds.png
+	imgNo. 355: aachen_000151_000019_gtFine_labelIds.png
+	imgNo. 356: aachen_000006_000019_gtFine_labelIds.png
+	imgNo. 357: aachen_000121_000019_gtFine_labelIds.png
+	imgNo. 358: aachen_000172_000019_gtFine_labelIds.png
+	imgNo. 359: aachen_000045_000019_gtFine_labelIds.png
+	imgNo. 360: aachen_000017_000019_gtFine_labelIds.png
+	imgNo. 361: aachen_000111_000019_gtFine_labelIds.png
+	imgNo. 362: aachen_000013_000019_gtFine_labelIds.png
+	imgNo. 363: aachen_000019_000019_gtFine_labelIds.png
+	imgNo. 364: aachen_000076_000019_gtFine_labelIds.png
+	imgNo. 365: aachen_000036_000019_gtFine_labelIds.png
+	imgNo. 366: aachen_000025_000019_gtFine_labelIds.png
+	imgNo. 367: aachen_000024_000019_gtFine_labelIds.png
+	imgNo. 368: aachen_000008_000019_gtFine_labelIds.png
+	imgNo. 369: aachen_000058_000019_gtFine_labelIds.png
+	imgNo. 370: aachen_000020_000019_gtFine_labelIds.png
+	imgNo. 371: aachen_000030_000019_gtFine_labelIds.png
+	imgNo. 372: aachen_000070_000019_gtFine_labelIds.png
+	imgNo. 373: aachen_000105_000019_gtFine_labelIds.png
+	imgNo. 374: aachen_000056_000019_gtFine_labelIds.png
+	imgNo. 375: aachen_000021_000019_gtFine_labelIds.png
+	imgNo. 376: aachen_000143_000019_gtFine_labelIds.png
+	imgNo. 377: aachen_000050_000019_gtFine_labelIds.png
+	imgNo. 378: aachen_000081_000019_gtFine_labelIds.png
+	imgNo. 379: aachen_000061_000019_gtFine_labelIds.png
+	imgNo. 380: aachen_000156_000019_gtFine_labelIds.png
+	imgNo. 381: aachen_000158_000019_gtFine_labelIds.png
+	imgNo. 382: aachen_000124_000019_gtFine_labelIds.png
+	imgNo. 383: aachen_000157_000019_gtFine_labelIds.png
+	imgNo. 384: aachen_000043_000019_gtFine_labelIds.png
+	imgNo. 385: aachen_000072_000019_gtFine_labelIds.png
+	imgNo. 386: aachen_000044_000019_gtFine_labelIds.png
+	imgNo. 387: aachen_000053_000019_gtFine_labelIds.png
+	imgNo. 388: aachen_000128_000019_gtFine_labelIds.png
+	imgNo. 389: aachen_000079_000019_gtFine_labelIds.png
+	imgNo. 390: aachen_000060_000019_gtFine_labelIds.png
+	imgNo. 391: aachen_000010_000019_gtFine_labelIds.png
+	imgNo. 392: aachen_000067_000019_gtFine_labelIds.png
+	imgNo. 393: aachen_000098_000019_gtFine_labelIds.png
+	imgNo. 394: aachen_000014_000019_gtFine_labelIds.png
+	imgNo. 395: aachen_000123_000019_gtFine_labelIds.png
+	imgNo. 396: aachen_000018_000019_gtFine_labelIds.png
+	imgNo. 397: aachen_000161_000019_gtFine_labelIds.png
+	imgNo. 398: aachen_000052_000019_gtFine_labelIds.png
+	imgNo. 399: aachen_000046_000019_gtFine_labelIds.png
+	imgNo. 400: aachen_000032_000019_gtFine_labelIds.png
+	imgNo. 401: aachen_000133_000019_gtFine_labelIds.png
+	imgNo. 402: aachen_000146_000019_gtFine_labelIds.png
+	imgNo. 403: aachen_000062_000019_gtFine_labelIds.png
+	imgNo. 404: aachen_000022_000019_gtFine_labelIds.png
+	imgNo. 405: aachen_000139_000019_gtFine_labelIds.png
+	imgNo. 406: aachen_000026_000019_gtFine_labelIds.png
+	imgNo. 407: aachen_000075_000019_gtFine_labelIds.png
+		RRRRR
+		found pixel 29: at 977 439
+		found pixel 29: at 1041 462
+		cluster:cats 17
+		21: 107301
+		7: 827415
+		11: 327205
+		20: 14688
+		1: 81534
+		4: 156692
+		33: 2354
+		8: 101488
+		26: 35050
+		3: 31634
+		23: 292635
+		32: 1311
+		29: 7450
+		24: 1966
+		12: 61806
+		17: 12462
+		13: 34161
+	imgNo. 408: aachen_000002_000019_gtFine_labelIds.png
+	imgNo. 409: aachen_000086_000019_gtFine_labelIds.png
+	imgNo. 410: aachen_000007_000019_gtFine_labelIds.png
+	imgNo. 411: aachen_000091_000019_gtFine_labelIds.png
+	imgNo. 412: aachen_000033_000019_gtFine_labelIds.png
+	imgNo. 413: aachen_000027_000019_gtFine_labelIds.png
+	imgNo. 414: aachen_000132_000019_gtFine_labelIds.png
+	imgNo. 415: aachen_000148_000019_gtFine_labelIds.png
+	imgNo. 416: aachen_000073_000019_gtFine_labelIds.png
+	imgNo. 417: aachen_000095_000019_gtFine_labelIds.png
+	imgNo. 418: aachen_000163_000019_gtFine_labelIds.png
+	imgNo. 419: aachen_000118_000019_gtFine_labelIds.png
+	imgNo. 420: aachen_000106_000019_gtFine_labelIds.png
+	imgNo. 421: aachen_000048_000019_gtFine_labelIds.png
+	imgNo. 422: aachen_000000_000019_gtFine_labelIds.png
+	imgNo. 423: aachen_000103_000019_gtFine_labelIds.png
+	imgNo. 424: aachen_000130_000019_gtFine_labelIds.png
+	imgNo. 425: aachen_000080_000019_gtFine_labelIds.png
+	imgNo. 426: aachen_000116_000019_gtFine_labelIds.png
+	imgNo. 427: aachen_000114_000019_gtFine_labelIds.png
+	imgNo. 428: aachen_000004_000019_gtFine_labelIds.png
+	imgNo. 429: aachen_000038_000019_gtFine_labelIds.png
+	imgNo. 430: aachen_000039_000019_gtFine_labelIds.png
+	imgNo. 431: aachen_000035_000019_gtFine_labelIds.png
+	imgNo. 432: aachen_000031_000019_gtFine_labelIds.png
+	imgNo. 433: aachen_000144_000019_gtFine_labelIds.png
+	imgNo. 434: aachen_000122_000019_gtFine_labelIds.png
+	imgNo. 435: aachen_000066_000019_gtFine_labelIds.png
+	imgNo. 436: aachen_000154_000019_gtFine_labelIds.png
+	imgNo. 437: aachen_000162_000019_gtFine_labelIds.png
+	imgNo. 438: aachen_000042_000019_gtFine_labelIds.png
+	imgNo. 439: aachen_000003_000019_gtFine_labelIds.png
+	imgNo. 440: aachen_000140_000019_gtFine_labelIds.png
+	imgNo. 441: aachen_000093_000019_gtFine_labelIds.png
+	imgNo. 442: aachen_000109_000019_gtFine_labelIds.png
+	imgNo. 443: aachen_000028_000019_gtFine_labelIds.png
+	imgNo. 444: aachen_000040_000019_gtFine_labelIds.png
+	imgNo. 445: aachen_000054_000019_gtFine_labelIds.png
+	imgNo. 446: aachen_000090_000019_gtFine_labelIds.png
+	imgNo. 447: aachen_000159_000019_gtFine_labelIds.png
+	imgNo. 448: aachen_000088_000019_gtFine_labelIds.png
+	imgNo. 449: aachen_000104_000019_gtFine_labelIds.png
+	imgNo. 450: aachen_000015_000019_gtFine_labelIds.png
+	imgNo. 451: aachen_000165_000019_gtFine_labelIds.png
+	imgNo. 452: aachen_000101_000019_gtFine_labelIds.png
+	imgNo. 453: aachen_000057_000019_gtFine_labelIds.png
+	imgNo. 454: aachen_000110_000019_gtFine_labelIds.png
+	imgNo. 455: aachen_000131_000019_gtFine_labelIds.png
+	imgNo. 456: aachen_000142_000019_gtFine_labelIds.png
+	imgNo. 457: aachen_000150_000019_gtFine_labelIds.png
+	imgNo. 458: aachen_000113_000019_gtFine_labelIds.png
+	imgNo. 459: aachen_000068_000019_gtFine_labelIds.png
+	imgNo. 460: aachen_000125_000019_gtFine_labelIds.png
+	imgNo. 461: aachen_000082_000019_gtFine_labelIds.png
+	imgNo. 462: aachen_000115_000019_gtFine_labelIds.png
+	imgNo. 463: aachen_000087_000019_gtFine_labelIds.png
+	imgNo. 464: aachen_000135_000019_gtFine_labelIds.png
+	imgNo. 465: aachen_000069_000019_gtFine_labelIds.png
+directory:
+"/home/gumgun/pap/datasets/gtFineMod/train/cologne"
+	imgNo. 466: cologne_000145_000019_gtFine_labelIds.png
+	imgNo. 467: cologne_000097_000019_gtFine_labelIds.png
+	imgNo. 468: cologne_000087_000019_gtFine_labelIds.png
+	imgNo. 469: cologne_000150_000019_gtFine_labelIds.png
+	imgNo. 470: cologne_000121_000019_gtFine_labelIds.png
+	imgNo. 471: cologne_000095_000019_gtFine_labelIds.png
+	imgNo. 472: cologne_000041_000019_gtFine_labelIds.png
+	imgNo. 473: cologne_000048_000019_gtFine_labelIds.png
+	imgNo. 474: cologne_000034_000019_gtFine_labelIds.png
+	imgNo. 475: cologne_000126_000019_gtFine_labelIds.png
+	imgNo. 476: cologne_000007_000019_gtFine_labelIds.png
+	imgNo. 477: cologne_000117_000019_gtFine_labelIds.png
+	imgNo. 478: cologne_000146_000019_gtFine_labelIds.png
+	imgNo. 479: cologne_000092_000019_gtFine_labelIds.png
+	imgNo. 480: cologne_000129_000019_gtFine_labelIds.png
+		RRRRR
+		found pixel 29: at 1156 364
+		found pixel 29: at 1224 351
