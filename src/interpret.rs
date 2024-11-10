@@ -8,7 +8,7 @@ pub fn dir_crawl_interpret(dataset_base:&Path) {
     let re = Regex::new(".*labelIds.*").unwrap();
     let mut context = Context{regex:re, current:0, found_img:0, clusters: HashMap::new(), local_clusters: HashMap::new()};
     
-    for mode_entry in fs::read_dir(og_data).unwrap() {
+    'limit: for mode_entry in fs::read_dir(og_data).unwrap() {
         let mode_dir = mode_entry.unwrap();
         if !mode_dir.file_type().unwrap().is_dir() {
             continue;
@@ -27,7 +27,9 @@ pub fn dir_crawl_interpret(dataset_base:&Path) {
                 println!("directory:\n{:?}", old_city_path);
                 for image_entry in fs::read_dir(old_city_path).unwrap() {
                     let image_file = image_entry.unwrap();
-                    img_interpret(&mut context, image_file)
+                    if img_interpret(&mut context, image_file) {
+                        break 'limit;
+                    }
                 } 
                 
             }
@@ -42,17 +44,17 @@ pub fn dir_crawl_interpret(dataset_base:&Path) {
 }
 
 
-pub fn img_interpret(context:&mut Context, image_file:DirEntry) {
+pub fn img_interpret(context:&mut Context, image_file:DirEntry) -> bool {
     if !image_file.file_type().unwrap().is_file() {
-        return;
+        return false;
     }
     let img_path = image_file.path();
     if !context.regex.is_match(img_path.to_str().unwrap()) {
-        return;
+        return false;
     }
     if context.current < SKIP {
         context.current += 1;
-        return;
+        return false;
     }
     
     println!("\timgNo. {}: {}", context.current+1, img_path.file_name().unwrap().to_str().unwrap());
@@ -83,9 +85,11 @@ pub fn img_interpret(context:&mut Context, image_file:DirEntry) {
     if let Some(number) = LIMIT {
         if context.current >= number {
             context.print_cluster();
-            panic!();
+            return true;
         }
-    }
+    } 
+    
+    false
 }
 
 pub fn img_analysis(image:&image::GrayImage, clusters:&mut HashMap<u8, usize>, local_clusters:&mut HashMap<u8, usize>) -> bool {

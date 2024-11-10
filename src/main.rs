@@ -4,7 +4,6 @@ use std::path::PathBuf;
 use std::fs::DirEntry;
 use std::fs;
 use image::ImageReader;
-use image::Luma;
 use regex::Regex;
 
 mod categories;
@@ -12,6 +11,7 @@ mod interpret;
 use interpret::*;
 mod process;
 use process::*;
+mod get_color;
 
 
 struct Context{
@@ -25,14 +25,17 @@ struct Context{
 enum Mode{
     Analysis,
     Process,
+    Color,
 }
 
 
 const MODE:Mode = Mode::Process;
 const SEARCH:Option<u8> = None;
 const IMG_TO_FIND:usize = 5;
-const SKIP:usize = 1730;
-const LIMIT:Option<usize> = None;
+const SKIP:usize = 0;//2975;
+const LIMIT:Option<usize> = None;//Some(SKIP+70);
+
+const DATASET:&str = "/home/gumgun/pap/datasets/";
 
 
 impl Context{
@@ -53,13 +56,16 @@ impl Context{
 }
 
 fn main() {
-    let dataset_base = Path::new("/home/gumgun/pap/datasets/");
+    let dataset_base = Path::new(DATASET);
     match MODE {
         Mode::Process => {
             dir_crawl_process(&dataset_base);
         }
         Mode::Analysis => {
             dir_crawl_interpret(&dataset_base);
+        }
+        Mode::Color => {
+            get_color::dir_crawl_color(&dataset_base);
         }
     }
     

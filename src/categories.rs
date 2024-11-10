@@ -1,5 +1,7 @@
-
 use std::collections::HashMap;
+use std::collections::HashSet;
+use super::DATASET;
+use std::fs::File;
 
 #[derive(Copy, Clone, Debug)]
 pub struct Cat(pub u8);
@@ -48,38 +50,66 @@ impl Cat {
     }
 }
 
-const GROUPS:[u8;34] = [0,0,0,0,/**/1,1,1,1,1,1,1,2,2,2,2,2,2,3,3,3,3,/*vegetation*/4,1,5,6,6,7,7,7,7,7,7,7,8];
-
-pub fn convert(data: &u32) -> [u8; 4] {
-    let mut res = [0; 4];
-    res[..].copy_from_slice(&data.to_le_bytes());
-    res[3]=255;
-    res
-}
-
+const GROUPS:[u8;34] = [
+/*0  => "other     ",*/ 8,
+/*1  => "CAR logo??",*/ 8,
+/*2  => "border2   ",*/ 8,
+/*3  => "border    ",*/ 8,
+/*4  => "static    ",*/ 33,
+/*5  => "dynamic   ",*/ 33,
+/*6  => "ground    ",*/ 11,
+/*7  => "road      ",*/ 11,
+/*8  => "sidewalk  ",*/ 11,
+/*9  => "parking   ",*/ 11,
+/*10 => "rail      ",*/ 11,
+/*11 => "building  ",*/ 12,
+/*12 => "wall      ",*/ 12,
+/*13 => "fence     ",*/ 12,
+/*14 => "guard rail",*/ 12,
+/*15 => "bridge    ",*/ 12,
+/*16 => "tunnel    ",*/ 12,
+/*17 => "pole      ",*/ 13,
+/*18 => "polegroup ",*/ 13,
+/*19 => "traf light",*/ 13,
+/*20 => "traf sign ",*/ 13,
+/*21 => "vegetation",*/ 21,
+/*22 => "terrain   ",*/ 11,
+/*23 => "sky       ",*/ 28,
+/*24 => "person    ",*/ 7,
+/*25 => "rider     ",*/ 7,
+/*26 => "car       ",*/ 17,
+/*27 => "truck     ",*/ 17,
+/*28 => "bus       ",*/ 17,
+/*29 => "caraban   ",*/ 17,
+/*30 => "trailer   ",*/ 17,
+/*31 => "train     ",*/ 17,
+/*32 => "motorcicle",*/ 17,
+/*33 => "bicycle   ",*/ 20];
+/*_ =>  "NOCAT     ",*/
 
 pub fn fill_cluster() -> HashMap<u8, (u8, image::Rgba<u8>)> {
     
-    use rand::rngs::StdRng;
-    use rand::SeedableRng;
-    use rand::RngCore;
+    let mut file = File::open(format!("{DATASET}/color.meta")).unwrap();
+    let color_vec:Vec<u32> = bincode::deserialize_from(file).unwrap();
+    println!("len: {}\n{:?} ", color_vec.len(), color_vec);
+    let mut color_set:HashSet<_> = color_vec.iter().map(|a|image::Rgba::<u8>(a.to_be_bytes())).collect();
     
-    let mut rng = StdRng::seed_from_u64(121212u64);
-    let color_vec:Vec<_> = (0..30).map(|_|{image::Rgba::<u8>(convert(&(rng.next_u32())))}).collect();
-    let mut color_vec_iter = color_vec.iter();
+    println!("len: {}\n{:?} ", color_set.len(), color_set);
+    
+    let mut color_iter = color_set.iter();
     
     let mut clusters: HashMap<u8, (u8, image::Rgba<u8>)> = HashMap::new();
     let mut helper: HashMap<u8, image::Rgba<u8>> = HashMap::new();
-    
-    for (index, cat) in GROUPS.iter().enumerate() {
-        match helper.get(cat) {
+
+    for (index, cat) in GROUPS.into_iter().enumerate() {
+        match helper.get(&cat) {
             Some(class) => {
-                clusters.insert(index.try_into().unwrap(), (*cat, *class));
+                clusters.insert(index.try_into().unwrap(), (cat, *class));
             }
             None => {
-                let pixel_holder = image::Rgba::<u8>(convert(&(rng.next_u32())));
-                clusters.insert(index.try_into().unwrap(), (*cat, pixel_holder));
-                helper.insert(*cat, pixel_holder);
+                let color_holder = *color_iter.next().unwrap();
+                clusters.insert(index.try_into().unwrap(), (cat, color_holder));
+                helper.insert(cat, color_holder);
             }
         }
     }

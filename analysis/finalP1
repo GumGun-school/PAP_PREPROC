@@ -1,167 +1,137 @@
+len: 34
+[1179010815, 5268735, 2524470015, 1718000895, 36607, 2151710975, 2576980479, 3030758655, 4278190335, 1358975487, 3868626175, 2523161855, 4095994111, 4205486335, 28415, 23295, 18175, 255, 59135, 3958015, 2576980479, 255, 1867120895, 1182971135, 4205453055, 1997218047, 3705405695, 3692313855, 255, 2566625535, 1804477439, 255, 3197737471, 255] 
+len: 29
+{Rgba([250, 170, 160, 255]), Rgba([0, 0, 0, 255]), Rgba([0, 0, 90, 255]), Rgba([153, 153, 153, 255]), Rgba([70, 70, 70, 255]), Rgba([128, 64, 128, 255]), Rgba([255, 0, 0, 255]), Rgba([152, 251, 152, 255]), Rgba([0, 0, 142, 255]), Rgba([107, 142, 35, 255]), Rgba([81, 0, 81, 255]), Rgba([230, 150, 140, 255]), Rgba([102, 102, 156, 255]), Rgba([244, 35, 232, 255]), Rgba([70, 130, 180, 255]), Rgba([0, 0, 110, 255]), Rgba([0, 60, 100, 255]), Rgba([150, 100, 100, 255]), Rgba([0, 80, 100, 255]), Rgba([0, 0, 70, 255]), Rgba([111, 74, 0, 255]), Rgba([0, 0, 230, 255]), Rgba([150, 120, 90, 255]), Rgba([180, 165, 180, 255]), Rgba([119, 11, 32, 255]), Rgba([250, 170, 30, 255]), Rgba([220, 220, 0, 255]), Rgba([190, 153, 153, 255]), Rgba([220, 20, 60, 255])} 
 directory:
 "/home/gumgun/pap/datasets/gtFineMod/train/ulm"
+	imgNo. 1: ulm_000008_000019_gtFine_labelIds.png
+	imgNo. 2: ulm_000024_000019_gtFine_labelIds.png
+	imgNo. 3: ulm_000081_000019_gtFine_labelIds.png
+	imgNo. 4: ulm_000029_000019_gtFine_labelIds.png
+	imgNo. 5: ulm_000079_000019_gtFine_labelIds.png
+	imgNo. 6: ulm_000086_000019_gtFine_labelIds.png
+	imgNo. 7: ulm_000090_000019_gtFine_labelIds.png
+	imgNo. 8: ulm_000069_000019_gtFine_labelIds.png
+	imgNo. 9: ulm_000050_000019_gtFine_labelIds.png
+	imgNo. 10: ulm_000077_000019_gtFine_labelIds.png
+	imgNo. 11: ulm_000088_000019_gtFine_labelIds.png
+	imgNo. 12: ulm_000075_000019_gtFine_labelIds.png
+	imgNo. 13: ulm_000026_000019_gtFine_labelIds.png
+	imgNo. 14: ulm_000092_000019_gtFine_labelIds.png
+	imgNo. 15: ulm_000066_000019_gtFine_labelIds.png
+	imgNo. 16: ulm_000013_000019_gtFine_labelIds.png
+	imgNo. 17: ulm_000057_000019_gtFine_labelIds.png
+	imgNo. 18: ulm_000052_000019_gtFine_labelIds.png
+	imgNo. 19: ulm_000087_000019_gtFine_labelIds.png
+	imgNo. 20: ulm_000035_000019_gtFine_labelIds.png
+	imgNo. 21: ulm_000002_000019_gtFine_labelIds.png
+	imgNo. 22: ulm_000031_000019_gtFine_labelIds.png
+	imgNo. 23: ulm_000020_000019_gtFine_labelIds.png
+	imgNo. 24: ulm_000005_000019_gtFine_labelIds.png
+	imgNo. 25: ulm_000065_000019_gtFine_labelIds.png
+	imgNo. 26: ulm_000085_000019_gtFine_labelIds.png
+	imgNo. 27: ulm_000040_000019_gtFine_labelIds.png
+	imgNo. 28: ulm_000071_000019_gtFine_labelIds.png
+	imgNo. 29: ulm_000078_000019_gtFine_labelIds.png
+	imgNo. 30: ulm_000048_000019_gtFine_labelIds.png
+	imgNo. 31: ulm_000018_000019_gtFine_labelIds.png
+	imgNo. 32: ulm_000000_000019_gtFine_labelIds.png
+	imgNo. 33: ulm_000039_000019_gtFine_labelIds.png
+	imgNo. 34: ulm_000044_000019_gtFine_labelIds.png
+	imgNo. 35: ulm_000083_000019_gtFine_labelIds.png
+	imgNo. 36: ulm_000022_000019_gtFine_labelIds.png
+	imgNo. 37: ulm_000061_000019_gtFine_labelIds.png
+	imgNo. 38: ulm_000064_000019_gtFine_labelIds.png
+	imgNo. 39: ulm_000038_000019_gtFine_labelIds.png
+	imgNo. 40: ulm_000091_000019_gtFine_labelIds.png
+	imgNo. 41: ulm_000004_000019_gtFine_labelIds.png
+	imgNo. 42: ulm_000016_000019_gtFine_labelIds.png
+	imgNo. 43: ulm_000062_000019_gtFine_labelIds.png
+	imgNo. 44: ulm_000049_000019_gtFine_labelIds.png
+	imgNo. 45: ulm_000076_000019_gtFine_labelIds.png
+	imgNo. 46: ulm_000051_000019_gtFine_labelIds.png
+	imgNo. 47: ulm_000034_000019_gtFine_labelIds.png
+	imgNo. 48: ulm_000027_000019_gtFine_labelIds.png
+	imgNo. 49: ulm_000094_000019_gtFine_labelIds.png
+	imgNo. 50: ulm_000011_000019_gtFine_labelIds.png
+	imgNo. 51: ulm_000045_000019_gtFine_labelIds.png
+	imgNo. 52: ulm_000009_000019_gtFine_labelIds.png
+	imgNo. 53: ulm_000059_000019_gtFine_labelIds.png
+	imgNo. 54: ulm_000074_000019_gtFine_labelIds.png
+	imgNo. 55: ulm_000015_000019_gtFine_labelIds.png
+	imgNo. 56: ulm_000060_000019_gtFine_labelIds.png
+	imgNo. 57: ulm_000025_000019_gtFine_labelIds.png
+	imgNo. 58: ulm_000041_000019_gtFine_labelIds.png
+	imgNo. 59: ulm_000070_000019_gtFine_labelIds.png
+	imgNo. 60: ulm_000080_000019_gtFine_labelIds.png
+	imgNo. 61: ulm_000032_000019_gtFine_labelIds.png
+	imgNo. 62: ulm_000019_000019_gtFine_labelIds.png
+	imgNo. 63: ulm_000036_000019_gtFine_labelIds.png
+	imgNo. 64: ulm_000023_000019_gtFine_labelIds.png
+	imgNo. 65: ulm_000012_000019_gtFine_labelIds.png
+	imgNo. 66: ulm_000003_000019_gtFine_labelIds.png
+	imgNo. 67: ulm_000089_000019_gtFine_labelIds.png
+	imgNo. 68: ulm_000007_000019_gtFine_labelIds.png
+	imgNo. 69: ulm_000058_000019_gtFine_labelIds.png
+	imgNo. 70: ulm_000053_000019_gtFine_labelIds.png
+	imgNo. 71: ulm_000047_000019_gtFine_labelIds.png
+	imgNo. 72: ulm_000056_000019_gtFine_labelIds.png
+	imgNo. 73: ulm_000072_000019_gtFine_labelIds.png
+	imgNo. 74: ulm_000068_000019_gtFine_labelIds.png
+	imgNo. 75: ulm_000017_000019_gtFine_labelIds.png
+	imgNo. 76: ulm_000030_000019_gtFine_labelIds.png
+	imgNo. 77: ulm_000014_000019_gtFine_labelIds.png
+	imgNo. 78: ulm_000063_000019_gtFine_labelIds.png
+	imgNo. 79: ulm_000067_000019_gtFine_labelIds.png
+	imgNo. 80: ulm_000046_000019_gtFine_labelIds.png
+	imgNo. 81: ulm_000021_000019_gtFine_labelIds.png
+	imgNo. 82: ulm_000001_000019_gtFine_labelIds.png
+	imgNo. 83: ulm_000073_000019_gtFine_labelIds.png
+	imgNo. 84: ulm_000082_000019_gtFine_labelIds.png
+	imgNo. 85: ulm_000010_000019_gtFine_labelIds.png
+	imgNo. 86: ulm_000028_000019_gtFine_labelIds.png
+	imgNo. 87: ulm_000042_000019_gtFine_labelIds.png
+	imgNo. 88: ulm_000093_000019_gtFine_labelIds.png
+	imgNo. 89: ulm_000054_000019_gtFine_labelIds.png
+	imgNo. 90: ulm_000033_000019_gtFine_labelIds.png
+	imgNo. 91: ulm_000043_000019_gtFine_labelIds.png
+	imgNo. 92: ulm_000006_000019_gtFine_labelIds.png
+	imgNo. 93: ulm_000084_000019_gtFine_labelIds.png
+	imgNo. 94: ulm_000037_000019_gtFine_labelIds.png
+	imgNo. 95: ulm_000055_000019_gtFine_labelIds.png
 directory:
 "/home/gumgun/pap/datasets/gtFineMod/train/stuttgart"
+	imgNo. 96: stuttgart_000120_000019_gtFine_labelIds.png
+	imgNo. 97: stuttgart_000024_000019_gtFine_labelIds.png
+	imgNo. 98: stuttgart_000041_000019_gtFine_labelIds.png
+	imgNo. 99: stuttgart_000062_000019_gtFine_labelIds.png
+	imgNo. 100: stuttgart_000069_000019_gtFine_labelIds.png
+	imgNo. 101: stuttgart_000018_000019_gtFine_labelIds.png
+	imgNo. 102: stuttgart_000036_000019_gtFine_labelIds.png
+	imgNo. 103: stuttgart_000029_000019_gtFine_labelIds.png
+	imgNo. 104: stuttgart_000169_000019_gtFine_labelIds.png
+	imgNo. 105: stuttgart_000140_000019_gtFine_labelIds.png
+	imgNo. 106: stuttgart_000079_000019_gtFine_labelIds.png
+	imgNo. 107: stuttgart_000034_000019_gtFine_labelIds.png
+	imgNo. 108: stuttgart_000089_000019_gtFine_labelIds.png
+	imgNo. 109: stuttgart_000174_000019_gtFine_labelIds.png
+	imgNo. 110: stuttgart_000130_000019_gtFine_labelIds.png
+	imgNo. 111: stuttgart_000155_000019_gtFine_labelIds.png
+	imgNo. 112: stuttgart_000118_000019_gtFine_labelIds.png
+	imgNo. 113: stuttgart_000110_000019_gtFine_labelIds.png
+	imgNo. 114: stuttgart_000135_000019_gtFine_labelIds.png
+	imgNo. 115: stuttgart_000088_000019_gtFine_labelIds.png
+	imgNo. 116: stuttgart_000077_000019_gtFine_labelIds.png
+	imgNo. 117: stuttgart_000059_000019_gtFine_labelIds.png
+	imgNo. 118: stuttgart_000043_000019_gtFine_labelIds.png
+	imgNo. 119: stuttgart_000093_000019_gtFine_labelIds.png
+	imgNo. 120: stuttgart_000044_000019_gtFine_labelIds.png
 	imgNo. 121: stuttgart_000012_000019_gtFine_labelIds.png
-SEARCHKEY
-		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000012_000019_gtFine_labelIds.png")
-		old categories: 0
-		nnew categories: 18
-		cluster:cats 18
-		22: 2201
-		7: 731094
-		8: 93630
-		20: 10019
-		25: 30926
-		4: 16110
-		24: 29664
-		17: 34992
-		0: 1
-		1: 81534
-		3: 31634
-		19: 17583
-		33: 71022
-		26: 18483
-		23: 101428
-		18: 1005
-		21: 102530
-		11: 723296
 	imgNo. 122: stuttgart_000123_000019_gtFine_labelIds.png
-SEARCHKEY
-		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000123_000019_gtFine_labelIds.png")
-		old categories: 18
-		nnew categories: 19
-		cluster:cats 19
-		22: 2201
-		7: 1395130
-		8: 93630
-		20: 10019
-		25: 30926
-		4: 16110
-		24: 31143
-		17: 34992
-		0: 1
-		1: 163068
-		3: 63268
-		19: 17583
-		33: 71022
-		26: 481123
-		23: 128639
-		18: 1005
-		21: 102530
-		27: 3660
-		11: 1548254
 	imgNo. 123: stuttgart_000016_000019_gtFine_labelIds.png
-SEARCHKEY
-		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000016_000019_gtFine_labelIds.png")
-		old categories: 19
-		nnew categories: 23
-		cluster:cats 23
-		22: 33309
-		7: 2259356
-		8: 109422
-		20: 15827
-		25: 42587
-		4: 20813
-		6: 76136
-		32: 4716
-		24: 36546
-		12: 4282
-		17: 79072
-		0: 1
-		1: 244602
-		3: 94902
-		19: 38109
-		33: 71022
-		26: 498237
-		23: 326891
-		18: 1005
-		21: 329392
-		27: 6754
-		5: 1103
-		11: 1997372
 	imgNo. 124: stuttgart_000117_000019_gtFine_labelIds.png
-		RRRRR
-		found pixel 29: at 756 271
-		found pixel 29: at 835 346
-		cluster:cats 13
-		21: 673777
-		7: 657494
-		11: 35080
-		1: 81534
-		26: 346645
-		4: 19277
-		29: 8685
-		8: 116565
-		23: 553
-		3: 31634
-		20: 21071
-		17: 9048
-		13: 95789
-SEARCHKEY
-		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000117_000019_gtFine_labelIds.png")
-		old categories: 23
-		nnew categories: 25
-		cluster:cats 25
-		22: 33309
-		7: 2916850
-		29: 8685
-		8: 225987
-		20: 36898
-		25: 42587
-		4: 40090
-		6: 76136
-		32: 4716
-		24: 36546
-		12: 4282
-		17: 88120
-		0: 1
-		1: 326136
-		3: 126536
-		19: 38109
-		33: 71022
-		26: 844882
-		23: 327444
-		18: 1005
-		21: 1003169
-		27: 6754
-		13: 95789
-		5: 1103
-		11: 2032452
 	imgNo. 125: stuttgart_000146_000019_gtFine_labelIds.png
 	imgNo. 126: stuttgart_000051_000019_gtFine_labelIds.png
-SEARCHKEY
-		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000051_000019_gtFine_labelIds.png")
-		old categories: 25
-		nnew categories: 27
-		cluster:cats 27
-		22: 149291
-		7: 4521364
-		29: 8685
-		15: 299472
-		9: 5707
-		8: 358815
-		20: 40480
-		25: 42587
-		4: 60570
-		6: 76136
-		32: 15079
-		24: 37417
-		12: 4282
-		17: 134022
-		0: 1
-		1: 489204
-		3: 189804
-		19: 38109
-		33: 71022
-		26: 1161881
-		23: 623365
-		18: 1005
-		21: 1122300
-		27: 20915
-		13: 102977
-		5: 1103
-		11: 3007319
 	imgNo. 127: stuttgart_000142_000019_gtFine_labelIds.png
 	imgNo. 128: stuttgart_000075_000019_gtFine_labelIds.png
 	imgNo. 129: stuttgart_000083_000019_gtFine_labelIds.png
@@ -173,79 +143,12 @@ SEARCHKEY
 	imgNo. 135: stuttgart_000172_000019_gtFine_labelIds.png
 	imgNo. 136: stuttgart_000180_000019_gtFine_labelIds.png
 	imgNo. 137: stuttgart_000159_000019_gtFine_labelIds.png
-SEARCHKEY
-		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000159_000019_gtFine_labelIds.png")
-		old categories: 27
-		nnew categories: 28
-		cluster:cats 28
-		22: 396496
-		7: 12220218
-		29: 8685
-		15: 317649
-		9: 27687
-		8: 1548409
-		20: 202296
-		25: 73514
-		4: 400239
-		6: 556026
-		32: 81183
-		24: 639142
-		12: 20760
-		28: 323
-		17: 353792
-		0: 134
-		1: 1386078
-		3: 537778
-		19: 86311
-		33: 92583
-		26: 2701224
-		23: 1377870
-		18: 9694
-		21: 3717456
-		27: 127169
-		13: 182197
-		5: 168076
-		11: 8418595
 	imgNo. 138: stuttgart_000122_000019_gtFine_labelIds.png
 	imgNo. 139: stuttgart_000065_000019_gtFine_labelIds.png
 	imgNo. 140: stuttgart_000189_000019_gtFine_labelIds.png
 	imgNo. 141: stuttgart_000178_000019_gtFine_labelIds.png
 	imgNo. 142: stuttgart_000014_000019_gtFine_labelIds.png
 	imgNo. 143: stuttgart_000045_000019_gtFine_labelIds.png
-SEARCHKEY
-		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000045_000019_gtFine_labelIds.png")
-		old categories: 28
-		nnew categories: 29
-		cluster:cats 29
-		22: 514863
-		15: 317649
-		28: 323
-		20: 293310
-		25: 74052
-		4: 708945
-		24: 740028
-		12: 103564
-		17: 519988
-		3: 727582
-		19: 104712
-		33: 150185
-		27: 243506
-		13: 205420
-		11: 10789571
-		7: 16391188
-		29: 8685
-		9: 27687
-		8: 1723320
-		6: 1035943
-		32: 151746
-		0: 250
-		1: 1875282
-		23: 1814564
-		26: 3945546
-		18: 24441
-		16: 801314
-		21: 4736663
-		5: 204169
 	imgNo. 144: stuttgart_000006_000019_gtFine_labelIds.png
 	imgNo. 145: stuttgart_000054_000019_gtFine_labelIds.png
 	imgNo. 146: stuttgart_000037_000019_gtFine_labelIds.png
@@ -268,41 +171,6 @@ SEARCHKEY
 	imgNo. 163: stuttgart_000121_000019_gtFine_labelIds.png
 	imgNo. 164: stuttgart_000150_000019_gtFine_labelIds.png
 	imgNo. 165: stuttgart_000055_000019_gtFine_labelIds.png
-SEARCHKEY
-		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000055_000019_gtFine_labelIds.png")
-		old categories: 29
-		nnew categories: 30
-		cluster:cats 30
-		22: 951602
-		15: 453112
-		28: 10278
-		20: 487429
-		25: 161328
-		4: 1359590
-		24: 2002709
-		12: 479861
-		17: 983503
-		3: 1423530
-		19: 270373
-		33: 277074
-		27: 388841
-		13: 341839
-		11: 21445056
-		7: 32063429
-		29: 8685
-		9: 27687
-		8: 3346699
-		31: 70131
-		6: 1435255
-		32: 187266
-		0: 793
-		1: 3669030
-		23: 3374906
-		26: 7768259
-		18: 35430
-		16: 801314
-		21: 10231167
-		5: 315664
 	imgNo. 166: stuttgart_000106_000019_gtFine_labelIds.png
 	imgNo. 167: stuttgart_000099_000019_gtFine_labelIds.png
 	imgNo. 168: stuttgart_000053_000019_gtFine_labelIds.png
@@ -330,42 +198,6 @@ SEARCHKEY
 	imgNo. 190: stuttgart_000015_000019_gtFine_labelIds.png
 	imgNo. 191: stuttgart_000103_000019_gtFine_labelIds.png
 	imgNo. 192: stuttgart_000195_000019_gtFine_labelIds.png
-SEARCHKEY
-		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000195_000019_gtFine_labelIds.png")
-		old categories: 30
-		nnew categories: 31
-		cluster:cats 31
-		22: 1698040
-		15: 517708
-		28: 175899
-		20: 985013
-		25: 208179
-		4: 2180525
-		24: 2977290
-		12: 968255
-		17: 1469124
-		3: 2277648
-		19: 349393
-		33: 354551
-		27: 1123435
-		13: 728322
-		14: 140115
-		11: 33022921
-		7: 51294145
-		29: 8685
-		9: 55378
-		8: 5355664
-		31: 532821
-		6: 2023700
-		32: 227984
-		0: 2631
-		1: 5870448
-		23: 6200083
-		26: 12043986
-		18: 57818
-		16: 1335390
-		21: 16178207
-		5: 631586
 	imgNo. 193: stuttgart_000039_000019_gtFine_labelIds.png
 	imgNo. 194: stuttgart_000095_000019_gtFine_labelIds.png
 	imgNo. 195: stuttgart_000165_000019_gtFine_labelIds.png
@@ -385,43 +217,6 @@ SEARCHKEY
 	imgNo. 209: stuttgart_000068_000019_gtFine_labelIds.png
 	imgNo. 210: stuttgart_000013_000019_gtFine_labelIds.png
 	imgNo. 211: stuttgart_000009_000019_gtFine_labelIds.png
-SEARCHKEY
-		fileDirEntry("/home/gumgun/pap/datasets/gtFine/train/stuttgart/stuttgart_000009_000019_gtFine_labelIds.png")
-		old categories: 31
-		nnew categories: 32
-		cluster:cats 32
-		22: 2017597
-		15: 550082
-		28: 258055
-		20: 1128924
-		25: 211839
-		4: 2846783
-		24: 3611208
-		12: 1249395
-		17: 1730962
-		3: 2878694
-		19: 391123
-		33: 368759
-		27: 1536796
-		13: 871699
-		14: 140115
-		11: 42335856
-		7: 64763171
-		29: 8685
-		9: 62664
-		8: 6831595
-		31: 532821
-		6: 2297634
-		32: 240985
-		0: 71544
-		1: 7419594
-		23: 7318659
-		26: 16497506
-		18: 61510
-		16: 1335390
-		21: 20552769
-		30: 46298
-		5: 672120
 	imgNo. 212: stuttgart_000107_000019_gtFine_labelIds.png
 	imgNo. 213: stuttgart_000082_000019_gtFine_labelIds.png
 	imgNo. 214: stuttgart_000008_000019_gtFine_labelIds.png
@@ -620,27 +415,6 @@ directory:
 	imgNo. 405: aachen_000139_000019_gtFine_labelIds.png
 	imgNo. 406: aachen_000026_000019_gtFine_labelIds.png
 	imgNo. 407: aachen_000075_000019_gtFine_labelIds.png
-		RRRRR
-		found pixel 29: at 977 439
-		found pixel 29: at 1041 462
-		cluster:cats 17
-		21: 107301
-		7: 827415
-		11: 327205
-		20: 14688
-		1: 81534
-		4: 156692
-		33: 2354
-		8: 101488
-		26: 35050
-		3: 31634
-		23: 292635
-		32: 1311
-		29: 7450
-		24: 1966
-		12: 61806
-		17: 12462
-		13: 34161
 	imgNo. 408: aachen_000002_000019_gtFine_labelIds.png
 	imgNo. 409: aachen_000086_000019_gtFine_labelIds.png
 	imgNo. 410: aachen_000007_000019_gtFine_labelIds.png
@@ -716,6 +490,6 @@ directory:
 	imgNo. 478: cologne_000146_000019_gtFine_labelIds.png
 	imgNo. 479: cologne_000092_000019_gtFine_labelIds.png
 	imgNo. 480: cologne_000129_000019_gtFine_labelIds.png
-		RRRRR
-		found pixel 29: at 1156 364
-		found pixel 29: at 1224 351
+	imgNo. 481: cologne_000010_000019_gtFine_labelIds.png
+	imgNo. 482: cologne_000032_000019_gtFine_labelIds.png
+	imgNo. 483: cologne_000065_000019_gtFine_labelIds.png
